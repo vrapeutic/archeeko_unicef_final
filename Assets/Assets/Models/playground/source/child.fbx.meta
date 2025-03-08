@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 4df8de1e92500ed45a8a05a62326567c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: child ground
+    100004: child lamp
+    100006: child sand
+    100008: child sandbox
+    100010: child swing
+    100012: child swing2
+    100014: child zabor
+    400000: //RootNode
+    400002: child ground
+    400004: child lamp
+    400006: child sand
+    400008: child sandbox
+    400010: child swing
+    400012: child swing2
+    400014: child zabor
+    2100000: child ground
+    2100002: sand
+    2100004: sandbox
+    2100006: swing
+    2100008: swing1
+    2100010: swing2
+    2100012: child zabor
+    2100014: lamp em
+    2100016: metal
+    2300000: child ground
+    2300002: child lamp
+    2300004: child sand
+    2300006: child sandbox
+    2300008: child swing
+    2300010: child swing2
+    2300012: child zabor
+    3300000: child ground
+    3300002: child lamp
+    3300004: child sand
+    3300006: child sandbox
+    3300008: child swing
+    3300010: child swing2
+    3300012: child zabor
+    4300000: child ground
+    4300002: child sand
+    4300004: child sandbox
+    4300006: child swing
+    4300008: child swing2
+    4300010: child zabor
+    4300012: child lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: child ground
+    second: {fileID: 2100000, guid: 9354df927b658ce40be4dae03b763bd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: child zabor
+    second: {fileID: 2100000, guid: 36f92a2bb0ba175468a36da5bcb9d9bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamp em
+    second: {fileID: 2100000, guid: 0e5784470bda7da46b54843910a2aaf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: c959e893431360a41a35fc0b65eceb1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sand
+    second: {fileID: 2100000, guid: baf04ebde53863e459064e8d23a87359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sandbox
+    second: {fileID: 2100000, guid: c5765a2315ddf084eb6e4b0cf3a66e29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swing
+    second: {fileID: 2100000, guid: cb67babfe5d8fc24b9d3905e4b7c2fa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swing1
+    second: {fileID: 2100000, guid: d74cef7b14e26eb40a5a56558b8d3a91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swing2
+    second: {fileID: 2100000, guid: b466ef0223378624eb46c6388076e65f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

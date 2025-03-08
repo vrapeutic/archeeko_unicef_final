@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: ab50f32cb6b70f04b87689ad9dc7e1f6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 815621_Globo_Lightstar
+    100002: 815621_Globo_Lightstar001
+    100004: Antiques
+    100006: Architexture
+    100008: Architexture001
+    100010: Architexture002
+    100012: Architexture003
+    100014: Architexture004
+    100016: Architexture005
+    100018: Architexture006
+    100020: Architexture007
+    100022: Architexture008
+    100024: Architexture009
+    100026: Architexture010
+    100028: Architexture011
+    100030: Architexture012
+    100032: Architexture013
+    100034: Architexture014
+    100036: Architexture015
+    100038: Architexture016
+    100040: Architexture017
+    100042: Architexture018
+    100044: Architexture019
+    100046: Architexture020
+    100048: Architexture021
+    100050: Architexture022
+    100052: Architexture023
+    100054: Architexture024
+    100056: Architexture025
+    100058: Architexture026
+    100060: Architexture027
+    100062: Architexture033
+    100064: Architexture039
+    100066: Book-shelves
+    100068: Cacti
+    100070: Cacti001
+    100072: Cactus curve
+    100074: car
+    100076: car_body005
+    100078: car_body4
+    100080: ccAlarm
+    100082: Ceiling
+    100084: chair006
+    100086: chair1
+    100088: chair2
+    100090: chair3
+    100092: chair4
+    100094: chair5
+    100096: cup
+    100098: Cylinder001
+    100100: Cylinder002
+    100102: Cylinder003
+    100104: Cylinder004
+    100106: Cylinder005
+    100108: Cylinder013
+    100110: Cylinder014
+    100112: dart board
+    100114: Floor001
+    100116: floor_Border
+    100118: Frame
+    100120: frame
+    100122: frame 004
+    100124: frame 005
+    100126: frame 006
+    100128: frame 007
+    100130: frame 01
+    100132: frame 02
+    100134: frame 03
+    100136: frame 1
+    100138: Frame001
+    100140: frame001
+    100142: Furniture
+    100144: Furniture 2
+    100146: Girrafe wall
+    100148: Globe
+    100150: grass23
+    100152: group22
+    100154: i12
+    100156: nail and rope
+    100158: Object012
+    100160: Object013
+    100162: Object014
+    100164: Object015
+    100166: Object016
+    100168: Object020
+    100170: Object021
+    100172: Object022
+    100174: Object024
+    100176: Object026
+    100178: Piece 1
+    100180: Piece 2
+    100182: Piece 3
+    100184: Plane.001
+    100186: Plane001
+    100188: PlantMain
+    100190: //RootNode
+    100192: ShelfWood
+    100194: table
+    100196: Toy box
+    100198: TV
+    100200: Tv_Stand
+    100202: Wall_B001
+    100204: Wall_C001
+    100206: Wall_E001
+    100208: Wall_Exterior
+    100210: Wall_G001
+    100212: walls 1
+    100214: walls2
+    100216: Window_Double002
+    100218: Window_Double003
+    100220: Window_Left002
+    100222: Window_Left003
+    100224: Window_Right002
+    100226: Window_Right003
+    400000: 815621_Globo_Lightstar
+    400002: 815621_Globo_Lightstar001
+    400004: Antiques
+    400006: Architexture
+    400008: Architexture001
+    400010: Architexture002
+    400012: Architexture003
+    400014: Architexture004
+    400016: Architexture005
+    400018: Architexture006
+    400020: Architexture007
+    400022: Architexture008
+    400024: Architexture009
+    400026: Architexture010
+    400028: Architexture011
+    400030: Architexture012
+    400032: Architexture013
+    400034: Architexture014
+    400036: Architexture015
+    400038: Architexture016
+    400040: Architexture017
+    400042: Architexture018
+    400044: Architexture019
+    400046: Architexture020
+    400048: Architexture021
+    400050: Architexture022
+    400052: Architexture023
+    400054: Architexture024
+    400056: Architexture025
+    400058: Architexture026
+    400060: Architexture027
+    400062: Architexture033
+    400064: Architexture039
+    400066: Book-shelves
+    400068: Cacti
+    400070: Cacti001
+    400072: Cactus curve
+    400074: car
+    400076: car_body005
+    400078: car_body4
+    400080: ccAlarm
+    400082: Ceiling
+    400084: chair006
+    400086: chair1
+    400088: chair2
+    400090: chair3
+    400092: chair4
+    400094: chair5
+    400096: cup
+    400098: Cylinder001
+    400100: Cylinder002
+    400102: Cylinder003
+    400104: Cylinder004
+    400106: Cylinder005
+    400108: Cylinder013
+    400110: Cylinder014
+    400112: dart board
+    400114: Floor001
+    400116: floor_Border
+    400118: Frame
+    400120: frame
+    400122: frame 004
+    400124: frame 005
+    400126: frame 006
+    400128: frame 007
+    400130: frame 01
+    400132: frame 02
+    400134: frame 03
+    400136: frame 1
+    400138: Frame001
+    400140: frame001
+    400142: Furniture
+    400144: Furniture 2
+    400146: Girrafe wall
+    400148: Globe
+    400150: grass23
+    400152: group22
+    400154: i12
+    400156: nail and rope
+    400158: Object012
+    400160: Object013
+    400162: Object014
+    400164: Object015
+    400166: Object016
+    400168: Object020
+    400170: Object021
+    400172: Object022
+    400174: Object024
+    400176: Object026
+    400178: Piece 1
+    400180: Piece 2
+    400182: Piece 3
+    400184: Plane.001
+    400186: Plane001
+    400188: PlantMain
+    400190: //RootNode
+    400192: ShelfWood
+    400194: table
+    400196: Toy box
+    400198: TV
+    400200: Tv_Stand
+    400202: Wall_B001
+    400204: Wall_C001
+    400206: Wall_E001
+    400208: Wall_Exterior
+    400210: Wall_G001
+    400212: walls 1
+    400214: walls2
+    400216: Window_Double002
+    400218: Window_Double003
+    400220: Window_Left002
+    400222: Window_Left003
+    400224: Window_Right002
+    400226: Window_Right003
+    2100000: walls 1
+    2100002: dart board 3
+    2100004: dart board 2
+    2100006: dart board 1
+    2100008: Antiques
+    2100010: furniture 2
+    2100012: funiture
+    2100014: walls 2
+    2300000: 815621_Globo_Lightstar
+    2300002: 815621_Globo_Lightstar001
+    2300004: Architexture
+    2300006: Architexture001
+    2300008: Architexture002
+    2300010: Architexture003
+    2300012: Architexture004
+    2300014: Architexture005
+    2300016: Architexture006
+    2300018: Architexture007
+    2300020: Architexture008
+    2300022: Architexture009
+    2300024: Architexture010
+    2300026: Architexture011
+    2300028: Architexture012
+    2300030: Architexture013
+    2300032: Architexture014
+    2300034: Architexture015
+    2300036: Architexture016
+    2300038: Architexture017
+    2300040: Architexture018
+    2300042: Architexture019
+    2300044: Architexture020
+    2300046: Architexture021
+    2300048: Architexture022
+    2300050: Architexture023
+    2300052: Architexture024
+    2300054: Architexture025
+    2300056: Architexture026
+    2300058: Architexture027
+    2300060: Architexture033
+    2300062: Architexture039
+    2300064: Book-shelves
+    2300066: Cacti
+    2300068: Cacti001
+    2300070: car
+    2300072: car_body005
+    2300074: car_body4
+    2300076: ccAlarm
+    2300078: Ceiling
+    2300080: chair006
+    2300082: chair1
+    2300084: chair2
+    2300086: chair3
+    2300088: chair4
+    2300090: chair5
+    2300092: cup
+    2300094: Cylinder001
+    2300096: Cylinder002
+    2300098: Cylinder003
+    2300100: Cylinder004
+    2300102: Cylinder005
+    2300104: Cylinder013
+    2300106: Cylinder014
+    2300108: Floor001
+    2300110: floor_Border
+    2300112: Frame
+    2300114: frame
+    2300116: frame 004
+    2300118: frame 005
+    2300120: frame 006
+    2300122: frame 007
+    2300124: frame 01
+    2300126: frame 02
+    2300128: frame 03
+    2300130: frame 1
+    2300132: Frame001
+    2300134: frame001
+    2300136: Girrafe wall
+    2300138: Globe
+    2300140: grass23
+    2300142: group22
+    2300144: i12
+    2300146: nail and rope
+    2300148: Object012
+    2300150: Object013
+    2300152: Object014
+    2300154: Object015
+    2300156: Object016
+    2300158: Object020
+    2300160: Object021
+    2300162: Object022
+    2300164: Object024
+    2300166: Object026
+    2300168: Piece 1
+    2300170: Piece 2
+    2300172: Piece 3
+    2300174: Plane.001
+    2300176: Plane001
+    2300178: PlantMain
+    2300180: ShelfWood
+    2300182: table
+    2300184: Toy box
+    2300186: TV
+    2300188: Tv_Stand
+    2300190: Wall_B001
+    2300192: Wall_C001
+    2300194: Wall_E001
+    2300196: Wall_Exterior
+    2300198: Wall_G001
+    2300200: Window_Double002
+    2300202: Window_Double003
+    2300204: Window_Left002
+    2300206: Window_Left003
+    2300208: Window_Right002
+    2300210: Window_Right003
+    3300000: 815621_Globo_Lightstar
+    3300002: 815621_Globo_Lightstar001
+    3300004: Architexture
+    3300006: Architexture001
+    3300008: Architexture002
+    3300010: Architexture003
+    3300012: Architexture004
+    3300014: Architexture005
+    3300016: Architexture006
+    3300018: Architexture007
+    3300020: Architexture008
+    3300022: Architexture009
+    3300024: Architexture010
+    3300026: Architexture011
+    3300028: Architexture012
+    3300030: Architexture013
+    3300032: Architexture014
+    3300034: Architexture015
+    3300036: Architexture016
+    3300038: Architexture017
+    3300040: Architexture018
+    3300042: Architexture019
+    3300044: Architexture020
+    3300046: Architexture021
+    3300048: Architexture022
+    3300050: Architexture023
+    3300052: Architexture024
+    3300054: Architexture025
+    3300056: Architexture026
+    3300058: Architexture027
+    3300060: Architexture033
+    3300062: Architexture039
+    3300064: Book-shelves
+    3300066: Cacti
+    3300068: Cacti001
+    3300070: car
+    3300072: car_body005
+    3300074: car_body4
+    3300076: ccAlarm
+    3300078: Ceiling
+    3300080: chair006
+    3300082: chair1
+    3300084: chair2
+    3300086: chair3
+    3300088: chair4
+    3300090: chair5
+    3300092: cup
+    3300094: Cylinder001
+    3300096: Cylinder002
+    3300098: Cylinder003
+    3300100: Cylinder004
+    3300102: Cylinder005
+    3300104: Cylinder013
+    3300106: Cylinder014
+    3300108: Floor001
+    3300110: floor_Border
+    3300112: Frame
+    3300114: frame
+    3300116: frame 004
+    3300118: frame 005
+    3300120: frame 006
+    3300122: frame 007
+    3300124: frame 01
+    3300126: frame 02
+    3300128: frame 03
+    3300130: frame 1
+    3300132: Frame001
+    3300134: frame001
+    3300136: Girrafe wall
+    3300138: Globe
+    3300140: grass23
+    3300142: group22
+    3300144: i12
+    3300146: nail and rope
+    3300148: Object012
+    3300150: Object013
+    3300152: Object014
+    3300154: Object015
+    3300156: Object016
+    3300158: Object020
+    3300160: Object021
+    3300162: Object022
+    3300164: Object024
+    3300166: Object026
+    3300168: Piece 1
+    3300170: Piece 2
+    3300172: Piece 3
+    3300174: Plane.001
+    3300176: Plane001
+    3300178: PlantMain
+    3300180: ShelfWood
+    3300182: table
+    3300184: Toy box
+    3300186: TV
+    3300188: Tv_Stand
+    3300190: Wall_B001
+    3300192: Wall_C001
+    3300194: Wall_E001
+    3300196: Wall_Exterior
+    3300198: Wall_G001
+    3300200: Window_Double002
+    3300202: Window_Double003
+    3300204: Window_Left002
+    3300206: Window_Left003
+    3300208: Window_Right002
+    3300210: Window_Right003
+    4300000: Girrafe wall
+    4300002: Object020
+    4300004: Object021
+    4300006: Object026
+    4300008: Wall_Exterior
+    4300010: Floor001
+    4300012: Piece 3
+    4300014: Piece 2
+    4300016: Piece 1
+    4300018: 815621_Globo_Lightstar
+    4300020: 815621_Globo_Lightstar001
+    4300022: Architexture
+    4300024: Architexture001
+    4300026: Architexture002
+    4300028: Architexture003
+    4300030: Architexture004
+    4300032: Architexture005
+    4300034: Architexture006
+    4300036: Architexture007
+    4300038: Architexture008
+    4300040: Architexture009
+    4300042: Architexture010
+    4300044: Architexture011
+    4300046: Architexture012
+    4300048: Architexture013
+    4300050: Architexture014
+    4300052: Architexture015
+    4300054: Architexture016
+    4300056: Architexture017
+    4300058: Architexture018
+    4300060: Architexture019
+    4300062: Architexture020
+    4300064: Architexture021
+    4300066: Architexture022
+    4300068: Architexture023
+    4300070: Architexture024
+    4300072: Architexture025
+    4300074: Architexture026
+    4300076: Architexture027
+    4300078: Architexture033
+    4300080: Architexture039
+    4300082: Cacti
+    4300084: Cacti001
+    4300086: car_body4
+    4300088: car_body005
+    4300090: ccAlarm
+    4300092: cup
+    4300094: Cylinder001
+    4300096: Cylinder002
+    4300098: Cylinder003
+    4300100: Cylinder004
+    4300102: Cylinder005
+    4300104: Cylinder013
+    4300106: Cylinder014
+    4300108: Globe
+    4300110: grass23
+    4300112: group22
+    4300114: i12
+    4300116: nail and rope
+    4300118: Object012
+    4300120: Object013
+    4300122: Object014
+    4300124: Object015
+    4300126: Object016
+    4300128: Object022
+    4300130: Plane.001
+    4300132: PlantMain
+    4300134: Toy box
+    4300136: Object024
+    4300138: chair006
+    4300140: Plane001
+    4300142: car
+    4300144: frame 02
+    4300146: frame 01
+    4300148: chair5
+    4300150: frame
+    4300152: frame
+    4300154: Frame
+    4300156: frame001
+    4300158: Frame001
+    4300160: chair1
+    4300162: chair3
+    4300164: chair4
+    4300166: chair2
+    4300168: TV
+    4300170: Tv_Stand
+    4300172: Window_Left002
+    4300174: Window_Right002
+    4300176: Window_Double002
+    4300178: Window_Left003
+    4300180: Window_Double003
+    4300182: Window_Right003
+    4300184: Book-shelves
+    4300186: table
+    4300188: frame 006
+    4300190: frame 007
+    4300192: frame 03
+    4300194: frame 004
+    4300196: frame 005
+    4300198: ShelfWood
+    4300200: floor_Border
+    4300202: Wall_B001
+    4300204: Wall_C001
+    4300206: Wall_E001
+    4300208: Wall_G001
+    4300210: Ceiling
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Antiques
+    second: {fileID: 2100000, guid: 4b01fa3739ea87b4babe2af5d210748d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dart board 1
+    second: {fileID: 2100000, guid: 2172b65591ce05a48b8fb4a823f05909, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dart board 2
+    second: {fileID: 2100000, guid: 306532ed06649a14c926d9286666e245, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dart board 3
+    second: {fileID: 2100000, guid: a2fa5b9fd6602d948b26eb8ca6d94ff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: funiture
+    second: {fileID: 2100000, guid: c28d4a476435d324aabf031b2d3693f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: furniture 2
+    second: {fileID: 2100000, guid: 8ab22abb93f84e0428736a9a5cf584f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: walls 1
+    second: {fileID: 2100000, guid: 8e8d275840dd07d45ab35b0fdc747824, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: walls 2
+    second: {fileID: 2100000, guid: 115454266309b794bb9175d6219422be, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
